@@ -7,4 +7,12 @@ class Civilization(self, name, modifiers, resources, wonders, cities):
         self.cities = cities
 
     def found_city():
-        
+        pass
+    
+    def obtain_city(city):
+        cities.append(city)
+    
+    def remove_city(city)
+        cities.remove(city)
+
+    
